@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+Backend/data/
+Backend/model/*.pt
+Backend/training_loss.png
+*.zip

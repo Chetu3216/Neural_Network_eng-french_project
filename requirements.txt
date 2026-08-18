@@ -1,0 +1,5 @@
+torch
+flask
+matplotlib
+kagglehub
+pandas
